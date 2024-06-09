@@ -9,9 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Dorian&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Dorian" /> </p>
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **React JS**
+- 💬 Ask me about something
 
 - 📫 How to reach me **dorianhl5229@gmail.com**
 
