@@ -5,8 +5,8 @@
 <img src="https://i.pinimg.com/originals/e2/54/2b/e2542b5c21f9f50bce597d7e9c0fbe66.jpg">
 
 <h1 align="center">Hi 👋, I am Dorian R</h1>
-<h3 align="center">Software engineer with 5+ years of experience in full-stack development and quality assurance, focused on delivering high-quality software solutions. Proven ability to design, develop, and execute automated test scripts to ensure software functionality and reliability. Proficient in various programming languages and frameworks, including JavaScript, React, C# and Java. Strong analytical and problem-solving skills, with a passion for continuous improvement and collaboration.</h3>
-
+<h3 align="center">Software engineer with 5+ years of experience in full-stack development and quality assurance, focused on delivering high-quality software solutions. Proven ability to design, develop, and execute automated test scripts to ensure software functionality and reliability. Strong analytical and problem-solving skills, with a passion for continuous improvement and collaboration.</h3>
+<h3 align="center">I am always looking for new challenges that web development offers to improve my skills.</h3>
 <div>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Dev-Dorian&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Dorian" /> 
