@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/e2/54/2b/e2542b5c21f9f50bce597d7e9c0fbe66.jpg">
 
 <h1 align="center">Hi 👋, I am Dorian R</h1>
-<h3 align="center">Software engineer with 5+ years of experience in full-stack development and quality assurance, focused on delivering high-quality software solutions. Proven ability to design, develop, and execute automated test scripts to ensure software functionality and reliability. Strong analytical and problem-solving skills, with a passion for continuous improvement and collaboration.</h3>
+<h3 align="center">Experienced Software Engineer (7+ years) with a strong background in end-to-end development, quality assurance, and a solid understanding of algorithms and data structures. Possessing analytical and problem-solving skills, I excel at building and maintaining reliable, scalable systems, optimizing performance, and driving automation.</h3>
 <h3 align="center">I am always looking for new challenges that web development offers to improve my skills.</h3>
 <div>
 <p align="left"> 
