@@ -98,8 +98,7 @@
 </table>
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dorian&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<img align="center" src="./profile/top-langs.svg"/>
 </div>
 
 
